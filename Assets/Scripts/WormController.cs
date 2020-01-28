@@ -6,6 +6,7 @@ public class WormController : MonoBehaviour
 {
     public int x;
     public string text;
+    public int y;
     
     // Start is called before the first frame update
     void Start()
@@ -26,6 +27,14 @@ public class WormController : MonoBehaviour
         else
         {
             Debug.Log("Pls write good name");
+        }
+        if (y>10)
+        {
+            Debug.Log("Wert ist über 10");
+        }
+        else 
+        {
+            Debug.Log("Wert ist unter 10");
         }
     }
 
