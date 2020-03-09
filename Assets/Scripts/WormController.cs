@@ -66,7 +66,7 @@ public class WormController : MonoBehaviour
 
         if (collision.gameObject.tag == "Health")
         {
-           health = health +4;
+           health = health +2;
            Debug.Log ("Kollision mit HealthBox findet statt"); 
         }
         
