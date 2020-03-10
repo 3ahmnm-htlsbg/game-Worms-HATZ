@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bullet
   - Health
+  - Bullet2
   layers:
   - Default
   - TransparentFX
