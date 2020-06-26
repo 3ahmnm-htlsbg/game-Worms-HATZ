@@ -10,10 +10,10 @@ Classic Game of worms with my own models created in Maya and Unity.
 - Autodesk Maya 2019
 
 ### Target platform: 
--
+TODO
 
 ### Visuals: 
-T-
+TODO
 
 ### Necessary setup/execution steps: 
 None
